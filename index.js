@@ -54,7 +54,7 @@ if(jarra < 100) {
 
     // aqyecer café
     cafeteira.ligada = true;
-    console.log("Estamo mantendo o seu Café quentinho!")
+    console.log("Estamos mantendo o seu Café quentinho!")
 
 }
 
